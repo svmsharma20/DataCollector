@@ -1,0 +1,93 @@
+SNo.,University Name,Country,City,International Ranking,GRE Required,Link
+1,Nanyang Technological University,Singapore, ,#2,Yes,http://www.ntu.edu.sg/Pages/home.aspx
+2,National University of Singapore,Singapore, ,#4,Yes,http://www.nus.edu.sg/
+3,Swiss Federal Institute of Technology Zurich,Switzerland,Zurich,#12,,https://www.ethz.ch/en.html
+4,University of British Columbia,Canada,"Vancouver, British Columbia",#14,,http://you.ubc.ca/
+5,University of Waterloo,Canada,"Waterloo, Ontario",#20,,http://uwaterloo.ca/
+6,University of Technology Sydney,Australia,"Ultimo, New South Wales",#25,,https://www.uts.edu.au/ 
+7,University of New South Wales,Australia,"Kensington, New South Wales",#30,,http://www.unsw.edu.au/ 
+8,University of Toronto,Canada,"Toronto, Ontario",#31,,http://www.utoronto.ca
+9,University College London,United Kingdom,London,#32,,http://www.ucl.ac.uk/
+10,University of Adelaide,Australia,"Adelaide, South Australia",#35,,http://www.adelaide.edu.au/ 
+11,Imperial College London,United Kingdom,London,#36,,http://www3.imperial.ac.uk/
+12,University of Granada,Spain,"Granada, Granada",#38,,http://www.ugr.es/en/
+13,University of Sydney,Australia,"Sydney, New South Wales",#41,,http://sydney.edu.au/ 
+14,Australian National University,Australia,"Canberra, Australian Capital Territory",#42,,http://www.anu.edu.au/
+15,Technical University of Munich,Germany,Munich,#43,,http://www.tum.de/en/homepage/ 
+16,École Polytechnique Federale of Lausanne,Switzerland,Lausanne,#45,,http://www.epfl.ch/
+17,CentraleSupelec,France,Chatenay-Malabry,#46,,http://www.centralesupelec.fr/wordpress/?lang=en
+18,Royal Institute of Technology,Sweden,Stockholm,#48,,http://www.kth.se/en
+19,University of Melbourne,Australia,"Parkville, Victoria",#49,,http://www.unimelb.edu.au/ 
+20,Singapore University of Technology & Design,Singapore, ,#51,,https://sutd.edu.sg/
+21,Polytechnic University of Catalonia,Spain,Barcelona,#53,,http://www.upc.edu/?set_language=en
+22,Linköping University,Sweden,Linköping,#60,,http://www.liu.se/?l=en
+23,Delft University of Technology,Netherlands,Delft,#61,,http://www.tudelft.nl/en/
+24,Lancaster University,United Kingdom,Lancaster,#65,,http://www.lancaster.ac.uk/
+25,University of Cambridge,United Kingdom,Cambridge,#66,,http://www.cam.ac.uk/
+26,University of Edinburgh,United Kingdom,"Edinburgh, Scotland",#69,,http://www.ed.ac.uk/home
+27,Universite Paris Saclay,France,Saint-Aubin,#70,,https://www.universite-paris-saclay.fr/en
+28,Polytechnic University of Milan,Italy,Milan,#71,,http://www.polimi.it/en/ 
+29,University of Erlangen Nuremberg,Germany,Erlangen,#71,,http://www.uni-erlangen.org/ 
+30,University of Alberta,Canada,"Edmonton, Alberta",#75,,http://www.ualberta.ca/
+31,University of Surrey,United Kingdom,Surrey,#77,,http://www.surrey.ac.uk/
+32,Universite de Lyon (ComUE),France,Lyon,#81,,https://www.universite-lyon.fr/version-anglaise/udl-en-6709.kjsp
+33,University of Oxford,United Kingdom,Oxford,#84,,http://www.ox.ac.uk/
+34,Deakin University,Australia,"Burwood, Victoria",#87,,http://www.deakin.edu.au/ 
+35,King's College London,United Kingdom,London,#89,,http://www.kcl.ac.uk/index.aspx
+36,University of Southampton,United Kingdom,Southampton,#91,,http://www.southampton.ac.uk/
+37,RMIT University,Australia,"Melbourne, VIC",#99,,https://www.rmit.edu.au/
+38,Aalborg University,Denmark,Aalborg,#100,,http://www.en.aau.dk/ 
+39,Brunel University,United Kingdom,"Uxbridge, Middlesex",#101,,http://www.brunel.ac.uk/
+40,University of Manchester,United Kingdom,Manchester,#103,,http://www.manchester.ac.uk/
+41,Eindhoven University of Technology,Netherlands,Eindhoven,#109,,https://www.tue.nl/en/
+42,Carleton University,Canada,"Ottowa, ON",#114,,http://carleton.ca/
+43,Technical University of Berlin,Germany,Berlin,#115,,http://www.tu-berlin.de/ 
+44,Chalmers University of Technology,Sweden,Gothenburg,#118,,http://www.chalmers.se/en/Pages/default.aspx
+45,University of Padua,Italy,Padua,#121,,http://www.unipd.it/en/ 
+46,Sorbonne Universite,France,Paris,#122,,https://www.sorbonne-universite.fr/en/university
+47,University of Sheffield,United Kingdom,Sheffield,#122,,http://www.sheffield.ac.uk/
+48,University of Trento,Italy,Trento,#125,,http://www.unitn.it/en 
+49,McGill University,Canada,"Montréal, Québec",#127,,http://www.mcgill.ca/
+50,Polytechnic University of Valencia,Spain,Valencia,#133,,https://www.upv.es/index-en.html
+51,University of Bologna,Italy,Bologna,#141,,http://www.unibo.it/en/homepage 
+52,University of Montreal,Canada,"Montréal, Québec",#144,,http://www.umontreal.ca/english/ 
+53,Sapienza University of Rome,Italy,Rome,#146,,http://www.uniroma1.it/ 
+54,Technical University of Dresden,Germany,Dresden,#148,,http://www.tu-dresden.de/
+55,Universidad Carlos III de Madrid,Spain,Madrid,#150,,http://www.uc3m.es/
+56,Université Paris-Sud,France,Orsay,#151,,http://www.u-psud.fr/en/index.html
+57,University of Queensland Australia,Australia,"Brisbane, Queensland",#156,,http://www.uq.edu.au/ 
+58,"Queen Mary, University of London",United Kingdom,London,#157,,http://www.qmul.ac.uk/
+59,Queen's University Belfast,United Kingdom,"Belfast, Northern Ireland",#159,,http://www.qub.ac.uk/
+60,University of Birmingham,United Kingdom,Birmingham,#161,,http://www.birmingham.ac.uk/index.aspx
+61,Polytechnic University of Madrid,Spain,Madrid,#165,,http://www.upm.es/institucional
+62,Monash University,Australia,"Clayton, Victoria",#167,,http://www.monash.edu.au/ 
+63,Technical University of Denmark,Denmark,Kongens Lyngby,#169,,http://www.dtu.dk/english 
+64,PSL Research University Paris (ComUE),France,Paris,#172,,https://www.psl.eu/en
+65,University of Ottawa,Canada,"Ottawa, Ontario",#176,,http://www.uottawa.ca/welcome.html
+66,Karlsruhe Institute of Technology,Germany,Karlsruhe,#178,,http://www.kit.edu/english/ 
+67,Universite Federale Toulouse Midi-Pyrenees (ComUE),France,Toulouse,#179,,https://www.univ-toulouse.fr/
+68,University of Twente,Netherlands,Enschede,#182,,http://www.utwente.nl/en/
+69,Concordia University,Canada,"Montréal, Québec",#189,,http://www.concordia.ca/
+70,Darmstadt University of Technology,Germany,Darmstadt,#189,,http://www.tu-darmstadt.de/ 
+71,National Technical University of Athens,Greece,Athens,#193,,http://www.ntua.gr/index_en.html
+72,Aristotle University of Thessaloniki,Greece,Thessaloniki,#196,,http://www.auth.gr/en 
+73,University of Bristol,United Kingdom,Bristol,#196,,http://www.bris.ac.uk/
+74,Universite Lille-Nord-de-France (ComUE),France,Villeneuve-d'Ascq,#202,,http://www.cue-lillenorddefrance.fr/
+75,Communaute Universite Grenoble Alpes,France,Saint-Martin-d'Heres,#203,,https://www.communaute-univ-grenoble-alpes.fr/
+76,Western University,Canada,"London, Ontario",#204,,http://welcome.uwo.ca/
+77,University of Amsterdam,Netherlands,Amsterdam,#205,,http://www.uva.nl/en/home
+78,RWTH Aachen University,Germany,Aachen,#207,,http://www.rwth-aachen.de/ 
+79,University of Pisa,Italy,Pisa,#216,,http://www.unipi.it/index.php/english 
+80,University of Stuttgart,Germany,Stuttgart,#223,,http://www.uni-stuttgart.de/home/index.en.html 
+81,University of Warwick,United Kingdom,Coventry,#230,,http://www2.warwick.ac.uk/
+82,Universite Sorbonne Paris Cite-USPC (ComUE),France,Paris,#231,,http://www.sorbonne-paris-cite.fr/fr
+83,University of the Basque Country,Spain,"Leioa, Bizkaia",#231,,http://www.ehu.eus/en/en-home
+84,Communaute d'Universites et Etablissements d'Aquitaine (ComUE),France,Bordeaux,#234,,http://www.cue-aquitaine.fr/
+85,Polytechnic University of Turin,Italy,Turin,#234,,http://www.polito.it/?lang=en 
+86,University of Salerno,Italy,Fisciano,#238,,http://web.unisa.it/home
+87,University of Wollongong,Australia,"Wollongong, New South Wales",#238,,http://www.uow.edu.au/index.html 
+88,University of Victoria,Canada,"Victoria, British Columbia",#240,,http://www.uvic.ca/
+89,University of Newcastle,Australia,"Callaghan, New South Wales",#242,,http://www.newcastle.edu.au/ 
+90,Simon Fraser University,Canada,"Burnaby, British Columbia",#244,,http://www.sfu.ca
+91,VU University Amsterdam,Netherlands,Amsterdam,#246,,http://www.vu.nl/en/
+92,University of Liverpool,United Kingdom,Liverpool,#248,,http://www.liv.ac.uk/

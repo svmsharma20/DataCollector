@@ -1,0 +1,93 @@
+SNo.,University Name,Country,City,International Ranking,Link
+1,Nanyang Technological University,Singapore, ,#2,https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+2,National University of Singapore,Singapore, ,#4,https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+3,Swiss Federal Institute of Technology Zurich,Switzerland,Zurich,#12,https://www.usnews.com/education/best-global-universities/swiss-federal-institute-of-technology-zurich-502241
+4,University of British Columbia,Canada,"Vancouver, British Columbia",#14,https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+5,University of Waterloo,Canada,"Waterloo, Ontario",#20,https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+6,University of Technology Sydney,Australia,"Ultimo, New South Wales",#25,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+7,University of New South Wales,Australia,"Kensington, New South Wales",#30,https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-502434
+8,University of Toronto,Canada,"Toronto, Ontario",#31,https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+9,University College London,United Kingdom,London,#32,https://www.usnews.com/education/best-global-universities/university-college-london-501693
+10,University of Adelaide,Australia,"Adelaide, South Australia",#35,https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+11,Imperial College London,United Kingdom,London,#36,https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+12,University of Granada,Spain,"Granada, Granada",#38,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+13,University of Sydney,Australia,"Sydney, New South Wales",#41,https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+14,Australian National University,Australia,"Canberra, Australian Capital Territory",#42,https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+15,Technical University of Munich,Germany,Munich,#43,https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+16,École Polytechnique Federale of Lausanne,Switzerland,Lausanne,#45,https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-of-lausanne-501629
+17,CentraleSupelec,France,Chatenay-Malabry,#46,https://www.usnews.com/education/best-global-universities/centralesupelec-528928
+18,Royal Institute of Technology,Sweden,Stockholm,#48,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+19,University of Melbourne,Australia,"Parkville, Victoria",#49,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+20,Singapore University of Technology & Design,Singapore, ,#51,https://www.usnews.com/education/best-global-universities/singapore-university-of-technology-design-529432
+21,Polytechnic University of Catalonia,Spain,Barcelona,#53,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+22,Linköping University,Sweden,Linköping,#60,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+23,Delft University of Technology,Netherlands,Delft,#61,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+24,Lancaster University,United Kingdom,Lancaster,#65,https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+25,University of Cambridge,United Kingdom,Cambridge,#66,https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+26,University of Edinburgh,United Kingdom,"Edinburgh, Scotland",#69,https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+27,Universite Paris Saclay,France,Saint-Aubin,#70,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+28,Polytechnic University of Milan,Italy,Milan,#71,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+29,University of Erlangen Nuremberg,Germany,Erlangen,#71,https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+30,University of Alberta,Canada,"Edmonton, Alberta",#75,https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+31,University of Surrey,United Kingdom,Surrey,#77,https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+32,Universite de Lyon (ComUE),France,Lyon,#81,https://www.usnews.com/education/best-global-universities/universite-de-lyon-comue-529380
+33,University of Oxford,United Kingdom,Oxford,#84,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+34,Deakin University,Australia,"Burwood, Victoria",#87,https://www.usnews.com/education/best-global-universities/deakin-university-504884
+35,King's College London,United Kingdom,London,#89,https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+36,University of Southampton,United Kingdom,Southampton,#91,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+37,RMIT University,Australia,"Melbourne, VIC",#99,https://www.usnews.com/education/best-global-universities/rmit-university-503858
+38,Aalborg University,Denmark,Aalborg,#100,https://www.usnews.com/education/best-global-universities/aalborg-university-501276
+39,Brunel University,United Kingdom,"Uxbridge, Middlesex",#101,https://www.usnews.com/education/best-global-universities/brunel-university-502232
+40,University of Manchester,United Kingdom,Manchester,#103,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+41,Eindhoven University of Technology,Netherlands,Eindhoven,#109,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+42,Carleton University,Canada,"Ottowa, ON",#114,https://www.usnews.com/education/best-global-universities/carleton-university-499991
+43,Technical University of Berlin,Germany,Berlin,#115,https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+44,Chalmers University of Technology,Sweden,Gothenburg,#118,https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+45,University of Padua,Italy,Padua,#121,https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+46,Sorbonne Universite,France,Paris,#122,https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+47,University of Sheffield,United Kingdom,Sheffield,#122,https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+48,University of Trento,Italy,Trento,#125,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+49,McGill University,Canada,"Montréal, Québec",#127,https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+50,Polytechnic University of Valencia,Spain,Valencia,#133,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-valencia-501850
+51,University of Bologna,Italy,Bologna,#141,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+52,University of Montreal,Canada,"Montréal, Québec",#144,https://www.usnews.com/education/best-global-universities/university-of-montreal-506159
+53,Sapienza University of Rome,Italy,Rome,#146,https://www.usnews.com/education/best-global-universities/sapienza-university-of-rome-506550
+54,Technical University of Dresden,Germany,Dresden,#148,https://www.usnews.com/education/best-global-universities/technical-university-of-dresden-501011
+55,Universidad Carlos III de Madrid,Spain,Madrid,#150,https://www.usnews.com/education/best-global-universities/universidad-carlos-iii-de-madrid-500603
+56,Université Paris-Sud,France,Orsay,#151,https://www.usnews.com/education/best-global-universities/universite-paris-sud--502000
+57,University of Queensland Australia,Australia,"Brisbane, Queensland",#156,https://www.usnews.com/education/best-global-universities/university-of-queensland-australia-500164
+58,"Queen Mary, University of London",United Kingdom,London,#157,https://www.usnews.com/education/best-global-universities/queen-mary-university-of-london-503389
+59,Queen's University Belfast,United Kingdom,"Belfast, Northern Ireland",#159,https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+60,University of Birmingham,United Kingdom,Birmingham,#161,https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+61,Polytechnic University of Madrid,Spain,Madrid,#165,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-madrid-500155
+62,Monash University,Australia,"Clayton, Victoria",#167,https://www.usnews.com/education/best-global-universities/monash-university-500301
+63,Technical University of Denmark,Denmark,Kongens Lyngby,#169,https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+64,PSL Research University Paris (ComUE),France,Paris,#172,https://www.usnews.com/education/best-global-universities/psl-research-university-paris-comue-529378
+65,University of Ottawa,Canada,"Ottawa, Ontario",#176,https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+66,Karlsruhe Institute of Technology,Germany,Karlsruhe,#178,https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+67,Universite Federale Toulouse Midi-Pyrenees (ComUE),France,Toulouse,#179,https://www.usnews.com/education/best-global-universities/universite-federale-toulouse-midi-pyrenees-comue-529381
+68,University of Twente,Netherlands,Enschede,#182,https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+69,Concordia University,Canada,"Montréal, Québec",#189,https://www.usnews.com/education/best-global-universities/concordia-university-499961
+70,Darmstadt University of Technology,Germany,Darmstadt,#189,https://www.usnews.com/education/best-global-universities/darmstadt-university-of-technology-506035
+71,National Technical University of Athens,Greece,Athens,#193,https://www.usnews.com/education/best-global-universities/national-technical-university-of-athens-505449
+72,Aristotle University of Thessaloniki,Greece,Thessaloniki,#196,https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+73,University of Bristol,United Kingdom,Bristol,#196,https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+74,Universite Lille-Nord-de-France (ComUE),France,Villeneuve-d'Ascq,#202,https://www.usnews.com/education/best-global-universities/universite-lille-nord-de-france-comue-529384
+75,Communaute Universite Grenoble Alpes,France,Saint-Martin-d'Heres,#203,https://www.usnews.com/education/best-global-universities/communaute-universite-grenoble-alpes-529379
+76,Western University,Canada,"London, Ontario",#204,https://www.usnews.com/education/best-global-universities/western-university-499965
+77,University of Amsterdam,Netherlands,Amsterdam,#205,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+78,RWTH Aachen University,Germany,Aachen,#207,https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+79,University of Pisa,Italy,Pisa,#216,https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+80,University of Stuttgart,Germany,Stuttgart,#223,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+81,University of Warwick,United Kingdom,Coventry,#230,https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+82,Universite Sorbonne Paris Cite-USPC (ComUE),France,Paris,#231,https://www.usnews.com/education/best-global-universities/universite-sorbonne-paris-cite-uspc-comue-529377
+83,University of the Basque Country,Spain,"Leioa, Bizkaia",#231,https://www.usnews.com/education/best-global-universities/university-of-the-basque-country-502718
+84,Communaute d'Universites et Etablissements d'Aquitaine (ComUE),France,Bordeaux,#234,https://www.usnews.com/education/best-global-universities/communaute-duniversites-et-etablissements-daquitaine-comue-529382
+85,Polytechnic University of Turin,Italy,Turin,#234,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577
+86,University of Salerno,Italy,Fisciano,#238,https://www.usnews.com/education/best-global-universities/university-of-salerno-502531
+87,University of Wollongong,Australia,"Wollongong, New South Wales",#238,https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+88,University of Victoria,Canada,"Victoria, British Columbia",#240,https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+89,University of Newcastle,Australia,"Callaghan, New South Wales",#242,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+90,Simon Fraser University,Canada,"Burnaby, British Columbia",#244,https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+91,VU University Amsterdam,Netherlands,Amsterdam,#246,https://www.usnews.com/education/best-global-universities/vu-university-amsterdam-500669
+92,University of Liverpool,United Kingdom,Liverpool,#248,https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
